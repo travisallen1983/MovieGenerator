@@ -1,0 +1,100 @@
+1.	Citizen Kane
+2.	The Godfather
+3.	Casablanca
+4.	Raging Bull
+5.	Singin' in the Rain
+6.	Gone with the Wind
+7.	Lawrence of Arabia
+8.	Schindler's List
+9.	Vertigo
+10.	The Wizard of Oz
+11.	City Lights
+12.	The Searchers
+13.	Star Wars
+14.	Psycho
+15.	2001: A Space Odyssey
+16.	Sunset Boulevard
+17.	The Graduate
+18.	The General
+19.	On the Waterfront
+20.	It's a Wonderful Life
+21.	Chinatown
+22.	Some Like It Hot
+23.	The Grapes of Wrath
+24.	E.T. the Extra-Terrestrial
+25.	To Kill a Mockingbird
+26.	Mr. Smith Goes to Washington
+27.	High Noon
+28.	All About Eve
+29.	Double Indemnity
+30.	Apocalypse Now
+31.	The Maltese Falcon
+32.	The Godfather Part II
+33.	One Flew Over the Cuckoo's Nest
+34.	Snow White and the Seven Dwarfs
+35.	Annie Hall
+36.	The Bridge on the River Kwai
+37.	The Best Years of Our Lives
+38.	The Treasure of the Sierra Madre
+39.	Dr. Strangelove
+40.	The Sound of Music
+41.	King Kong
+42.	Bonnie and Clyde
+43.	Midnight Cowboy
+44.	The Philadelphia Story
+45.	Shane
+46.	It Happened One Night
+47.	A Streetcar Named Desire
+48.	Rear Window	Alfred Hitchcock
+49.	Intolerance
+50.	The Lord of the Rings: The Fellowship of the Ring
+51.	West Side Story
+52.	Taxi Driver
+53.	The Deer Hunter
+54.	MASH
+55.	North by Northwest
+56.	Jaws
+57.	Rocky
+58.	The Gold Rush
+59.	Nashville
+60.	Duck Soup
+61.	Sullivan's Travels
+62.	American Graffiti
+63.	Cabaret
+64.	Network
+65.	The African Queen
+66.	Raiders of the Lost Ark
+67.	Who's Afraid of Virginia Woolf?
+68.	Unforgiven
+69.	Tootsie
+70.	A Clockwork Orange
+71.	Saving Private Ryan
+72.	The Shawshank Redemption
+73.	Butch Cassidy and the Sundance Kid
+74.	The Silence of the Lambs
+75.	In the Heat of the Night
+76.	Forrest Gump
+77.	All the President's Men
+78.	Modern Times
+79.	The Wild Bunch
+80.	The Apartment
+81.	Spartacus
+82.	Sunrise: A Song of Two Humans
+83.	Titanic
+84.	Easy Rider
+85.	A Night at the Opera
+86.	Platoon
+87.	12 Angry Men
+88.	Bringing Up Baby
+89.	The Sixth Sense
+90.	Swing Time
+91.	Sophie's Choice
+92.	Goodfellas
+93.	The French Connection
+94.	Pulp Fiction
+95.	The Last Picture Show
+96.	Do the Right Thing
+97.	Blade Runner
+98.	Yankee Doodle Dandy
+99.	Toy Story
+100. Ben-Hur
